@@ -1,0 +1,15 @@
+.block-clients {
+    padding: 100px 0; 
+}
+.block-clients .block-title {
+    margin-bottom: 30px; 
+}
+.block-clients .item {
+    margin-bottom: 30px; 
+    padding: 0 15px; 
+    max-width: 20%; 
+    width: 100%;
+}
+body {
+    background-color: red; 
+}
